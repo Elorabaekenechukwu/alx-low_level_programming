@@ -2,13 +2,12 @@
 #include <stdio.h>
 
 /**
-* main - check the code
-* @a: an array of integers
-* @n: the number of elements to swap
-*
-* Return: nothing.
-*/
-
+ * main - check the code
+ * @a: An array of integers
+ * @n: The number of integers to swap
+ *
+ * Return: Always 0.
+ */
 void print_array(int *a, int n)
 {
 	int i;
