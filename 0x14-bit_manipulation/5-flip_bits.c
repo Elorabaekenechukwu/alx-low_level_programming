@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
-  * flip_bits - a fxn dat returns d num of bit u wud nid 2 flip 2 get frm 1 num 2 anoda.
+  * flip_bits - a fxn dat returns d num of bit 2 flip 2 get frm 1 num 2 anoda.
   * @n: inputed figure 1 of unsigned long int.
   * @m: inputed figure 2 of unsigned long int.
   * Return: Flipped numbers
